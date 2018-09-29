@@ -47,9 +47,10 @@ and so on...
 
 
 ### Annotation
-Built Annotation tool for semi-automation of the skills annotation. Annotaation tooks 3 weeks to annotate around 2000 job description paragraph posted by different employers.
+* Built Annotation tool for semi-automation of the skills annotation. Annotaation tooks 3 weeks to annotate around 2000 job description paragraph posted by different employers.
 Data preprocessing tooks one week since there was many wrong labeled data related to ONET normalized job title.
-[IOB](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning) Tagging system is followed.
+
+* [IOB](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning) Tagging system is followed.
 
 ```
 I-TAG: Inside the chnuk
