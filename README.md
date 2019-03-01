@@ -2,7 +2,7 @@
 Project to extract entities from Job Description Articles.
 
 <div text-align="center">
-  <img src="/images/web-demo.png">
+  <img src="/images/web-demo.gif">
 </div>
 
 ### Objective
