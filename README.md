@@ -3,9 +3,10 @@ Project to extract entities from Job Description Articles.
 
 ### Objective
 Extracting information from job articles (posted by employers):
-``` 
+
 ![Live demo](/images/web-demo.png)
 
+``` 
 Job type:
 ==========================
 "Full-Time, Part-Time, Contract, "Principle, temporary, .. etc"
