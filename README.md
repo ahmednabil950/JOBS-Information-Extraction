@@ -1,7 +1,9 @@
 # JOBS-Information-Extraction
 Project to extract entities from Job Description Articles.
 
-![Live demo](/images/web-demo.png)
+<div text-align="center">
+  <img src="/images/web-demo.png">
+</div>
 
 ### Objective
 Extracting information from job articles (posted by employers):
