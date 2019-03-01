@@ -1,10 +1,10 @@
 # JOBS-Information-Extraction
 Project to extract entities from Job Description Articles.
 
+![Live demo](/images/web-demo.png)
+
 ### Objective
 Extracting information from job articles (posted by employers):
-
-![Live demo](/images/web-demo.png)
 
 ``` 
 Job type:
